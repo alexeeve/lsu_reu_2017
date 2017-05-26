@@ -1,0 +1,13 @@
+Herschel is going to work on the HDF5 output and python analysis tools
+while Evgueni decided to work on the Lorenz gauge code (set up
+constraint satisfying iniital data to check the code for correct
+quasinormal mode frequencies and tails if possible).
+
+For Evgueni, I have attached the current state of the code in a gzipped
+tarball. Ed McClain did some work on the problem before leaving. There
+is a Mathematica notebook in the directory with his attempt at deriving
+the constraint satisfying initial data. Until I get back, Evgenui can
+try to relate the code (which is a bit of a mess, I'm afraid) with the
+equations from the paper and maybe try to look at Ed's mathematica
+notebook in order to get an idea about what Ed was doing.
+
